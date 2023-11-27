@@ -57,3 +57,9 @@ body{
   color: green;
   text-align: right;
 }
+
+@media only screen and (max-width: 600px){
+  body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+}
