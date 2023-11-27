@@ -62,4 +62,14 @@ body{
   body{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
+  .text{
+    font-style: oblique;
+  }
+  .input::placeholder{
+    color: lightgray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .btn{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
 }
